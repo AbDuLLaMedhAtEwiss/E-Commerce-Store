@@ -1,0 +1,23 @@
+# Build
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+
+# Secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# Misc
+.DS_Store
+Thumbs.db
+HELP.md
+*.log
